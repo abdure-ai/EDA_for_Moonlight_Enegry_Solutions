@@ -1,4 +1,4 @@
-# KAIM-W0-EDA-for-Moonlight-
+# KAIM-W0-EDA-for-Moonlight-Energy-Solutions
 Exploratory Data Analysis and Solar Dashboard for MoonLight Energy Solutions.
 # Solar Energy Analysis with Streamlit
 
